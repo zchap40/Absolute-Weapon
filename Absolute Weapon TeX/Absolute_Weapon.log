@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  27 SEP 2022 14:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  27 SEP 2022 19:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -843,10 +843,6 @@ h sci-ence has al-ready wrought
 ]
 Chapter 2.
 [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59]
-
-LaTeX Warning: Reference `II-Retaliation3' on page 60 undefined on input line 1
-05.
-
 [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74]
 [75]) [76]
 
@@ -885,18 +881,13 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ]
 Chapter 3.
 [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93]
-[94] [95] [96] [97] [98] [99] [100] [101] [102]
-
-LaTeX Warning: Reference `II-Retaliation3' on page 103 undefined on input line 
-131.
-
-[103] [104] [105] [106] [107] [108] [109]) [110] [111] [112
+[94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106]
+[107] [108] [109]) [110] [111] [112
 
 ]
 \openout2 = `./chapters/ch04.aux'.
 
-
-(./chapters/ch04.tex
+ (./chapters/ch04.tex
 Chapter 4.
 [113
 
@@ -959,15 +950,12 @@ Package rerunfilecheck Info: File `Absolute_Weapon.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
  ) 
 Here is how much of TeX's memory you used:
  11642 strings out of 493014
  168163 string characters out of 6133351
- 384818 words of memory out of 5000000
+ 384872 words of memory out of 5000000
  14575 multiletter control sequences out of 15000+600000
  20962 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1320,10 +1308,10 @@ cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
 xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
 live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texl
 ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on Absolute_Weapon.pdf (182 pages, 624127 bytes).
+Output written on Absolute_Weapon.pdf (182 pages, 623489 bytes).
 PDF statistics:
- 1235 PDF objects out of 1440 (max. 8388607)
- 1016 compressed objects within 11 object streams
+ 1236 PDF objects out of 1440 (max. 8388607)
+ 1017 compressed objects within 11 object streams
  323 named destinations out of 1000 (max. 500000)
  109 words of extra memory for PDF output out of 10000 (max. 10000000)
 
