@@ -1,0 +1,59 @@
+
+\documentclass[11pt]{book}
+\usepackage{Wiley-AuthoringTemplate}
+\usepackage[paperwidth=7in, paperheight=10in, left=1.75cm, right=1.75cm, top=1.75cm, bottom=1.75cm]{geometry}
+\usepackage{pdfpages}
+\usepackage[shortlabels]{enumitem}
+\usepackage{chapterbib}
+\usepackage[sectionbib,authoryear]{natbib}
+
+%%       The below macro controls the numbering of section heads      %%
+%% 0= no section numbers, 1= section, 2= subsection, 3= subsubsection %%
+\setcounter{secnumdepth}{3}
+
+%%  The below macro controls the number of section heads displayed in   %%
+%%			Table of Contents				%%
+%% 0= chapter, 1= section, 2= subsection, 3= subsubsection titles.	%%
+\setcounter{tocdepth}{2}
+
+\makeindex
+
+\begin{document}
+
+\includepdf[pages={1}, offset = -16.85 0.5]{7x10-cover.pdf}
+
+\frontmatter
+\include{./chapters/fm}
+
+\mainmatter
+
+\phantomsection
+\addcontentsline{toc}{chapter}{PART I - \underline{The Weapon}}
+\part{The Weapon}
+
+\include{./chapters/ch01}
+\addtocontents{toc}{\textit{Bernard Brodie}\par}{~}
+
+\include{./chapters/ch02}
+\addtocontents{toc}{\textit{Bernard Brodie}\par}{~}
+
+\phantomsection
+\addcontentsline{toc}{chapter}{PART II - \underline{Political Consequences}}
+\part{Political Consequences}
+
+\include{./chapters/ch03}
+\addtocontents{toc}{\textit{Arnold Wolfers}\par}{~}
+
+\include{./chapters/ch04}
+\addtocontents{toc}{\textit{Percy E. Corbett}\par}{~}
+
+\phantomsection
+\addcontentsline{toc}{chapter}{PART III - \underline{Control}}
+\part{Control}
+
+\include{./chapters/ch05}
+\addtocontents{toc}{\textit{William T. R. Fox}\par}{~}
+
+\printindex
+
+\end{document}

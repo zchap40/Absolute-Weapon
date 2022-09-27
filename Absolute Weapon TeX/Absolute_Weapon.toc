@@ -1,0 +1,32 @@
+\gdef \the@ipfilectr {@-1}
+\vskip -8pt
+\contentsline {schapter}{Contributors}{vii}{chapter*.2}
+\vskip -8pt
+\contentsline {schapter}{Acknowledgments}{ix}{chapter*.3}
+\vskip -8pt
+\contentsline {schapter}{Introduction}{xi}{chapter*.4}
+\textit {Frederick S. Dunn}\par 
+\gdef \the@ipfilectr {}
+\contentsline {chapter}{PART I - \relax $\@@underline {\hbox {The Weapon}}\mathsurround \z@ $\relax }{1}{section*.5}
+\gdef \the@ipfilectr {@-2}
+\contentsline {chapter}{\numberline {1}War in the Atomic Age}{3}{chapter.1}
+\gdef \the@ipfilectr {}
+\textit {Bernard Brodie}\par 
+\gdef \the@ipfilectr {@-3}
+\contentsline {chapter}{\numberline {2}Implications for Military Policy}{45}{chapter.2}
+\gdef \the@ipfilectr {}
+\textit {Bernard Brodie}\par 
+\contentsline {chapter}{PART II - \relax $\@@underline {\hbox {Political Consequences}}\mathsurround \z@ $\relax }{77}{section*.6}
+\gdef \the@ipfilectr {@-4}
+\contentsline {chapter}{\numberline {3}The Atomic Bomb and Soviet-American Relations}{79}{chapter.3}
+\gdef \the@ipfilectr {}
+\textit {Arnold Wolfers}\par 
+\gdef \the@ipfilectr {@-5}
+\contentsline {chapter}{\numberline {4}Effect on International Organization}{113}{chapter.4}
+\gdef \the@ipfilectr {}
+\textit {Percy E. Corbett}\par 
+\contentsline {chapter}{PART III - \relax $\@@underline {\hbox {Control}}\mathsurround \z@ $\relax }{129}{section*.7}
+\gdef \the@ipfilectr {@-6}
+\contentsline {chapter}{\numberline {5}International Control of Atomic Weapons}{131}{chapter.5}
+\gdef \the@ipfilectr {}
+\textit {William T. R. Fox}\par 
