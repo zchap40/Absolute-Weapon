@@ -22,13 +22,15 @@
 
 \includepdf[pages={1}, offset = -16.85 0.35]{7x10-cover.pdf}
 
+\thispagestyle{empty}	%This gets rid of the page number on empty page after cover
+
 \frontmatter
 \include{./chapters/fm}
 
 \mainmatter
 
 \phantomsection
-\addcontentsline{toc}{chapter}{PART I - \underline{The Weapon}}
+\addcontentsline{toc}{part}{\fontfamily{cmr}\selectfont \textsc{Part I - The Weapon}}
 \part{The Weapon}
 
 \include{./chapters/ch01}
@@ -38,7 +40,7 @@
 \addtocontents{toc}{\textit{Bernard Brodie}\par}{~}
 
 \phantomsection
-\addcontentsline{toc}{chapter}{PART II - \underline{Political Consequences}}
+\addcontentsline{toc}{part}{\fontfamily{cmr}\selectfont \textsc{Part II - Political Consequences}}
 \part{Political Consequences}
 
 \include{./chapters/ch03}
@@ -48,7 +50,7 @@
 \addtocontents{toc}{\textit{Percy E. Corbett}\par}{~}
 
 \phantomsection
-\addcontentsline{toc}{chapter}{PART III - \underline{Control}}
+\addcontentsline{toc}{part}{\fontfamily{cmr}\selectfont \textsc{Part III - Control}}
 \part{Control}
 
 \include{./chapters/ch05}
